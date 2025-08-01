@@ -32,7 +32,7 @@ Weather-App/
 │   └── search.png
 
 🔗 Live Demo
-👉 View on GitHub
+👉 [View on GitHub](https://toufeeqahmed916.github.io/Weather-App/)
 
 📄 License
 This project is open-source and free to use.
